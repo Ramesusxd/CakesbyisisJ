@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CakesbyisisJ</string>
+    <string name="app_header">Cakes By Isis.J</string>
+    <string name="app_phone">Phone: 216-269-6189</string>
+    <string name="app_address">Strongsville, Ohio</string>
+    <string name="app_email">E-Mail: cakesbyisisj@yahoo.com</string>
+    <string name="app_fb">Facebook: cakesbyisisj</string>
+    <string name="app_headerbottom">Best cakes in Ohio!!</string>
+</resources>
